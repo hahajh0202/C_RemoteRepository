@@ -1,6 +1,6 @@
 #include <stdio.h>
+#include "remote_1.h"
 
-int main(){
-    printf("damn");
-    return 0;
+void print_message(){
+    printf("Hello from remote_1.c!\n");
 }
